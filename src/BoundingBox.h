@@ -41,6 +41,9 @@ public:
 	void extend(Vec3f a)
 	{
 		// --- PUT YOUR CODE HERE ---
+		CBoundingBox temp;
+		temp.m_min = std::numeric_limits<Vec3f>::infinity();
+		temp.m_max = -1 * std::numeric_limits<Vec3f>::infinity();
 	}
 	
 	/**
