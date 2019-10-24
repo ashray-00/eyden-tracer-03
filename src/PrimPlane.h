@@ -39,7 +39,6 @@ public:
 		// --- PUT YOUR CODE HERE ---
 		bounds.m_min = std::numeric_limits<Vec3f>::infinity();
 		bounds.m_max = -1 * std::numeric_limits<Vec3f>::infinity();
-		bounds.extend(m_origin);
 		return bounds;
 	}
 	
