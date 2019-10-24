@@ -68,18 +68,6 @@ Prim.h
 Prim.h
 /home/ashray/Documents/cg/eyden-tracer-03/src/Prim.h
 
-/home/ashray/Documents/cg/eyden-tracer-03/src/Scene.cpp
-Scene.h
-/home/ashray/Documents/cg/eyden-tracer-03/src/Scene.h
-fstream
--
-ShaderEyelight.h
-/home/ashray/Documents/cg/eyden-tracer-03/src/ShaderEyelight.h
-ShaderPhong.h
-/home/ashray/Documents/cg/eyden-tracer-03/src/ShaderPhong.h
-PrimTriangle.h
-/home/ashray/Documents/cg/eyden-tracer-03/src/PrimTriangle.h
-
 /home/ashray/Documents/cg/eyden-tracer-03/src/Scene.h
 ILight.h
 /home/ashray/Documents/cg/eyden-tracer-03/src/ILight.h
@@ -894,16 +882,6 @@ iostream
 map
 -
 
-/usr/local/include/opencv4/opencv2/flann/random.h
-algorithm
--
-cstdlib
--
-vector
--
-general.h
-/usr/local/include/opencv4/opencv2/flann/general.h
-
 /usr/local/include/opencv4/opencv2/flann/result_set.h
 algorithm
 -
@@ -933,14 +911,6 @@ general.h
 /usr/local/include/opencv4/opencv2/flann/general.h
 nn_index.h
 /usr/local/include/opencv4/opencv2/flann/nn_index.h
-
-/usr/local/include/opencv4/opencv2/flann/timer.h
-time.h
--
-opencv2/core.hpp
-/usr/local/include/opencv4/opencv2/flann/opencv2/core.hpp
-opencv2/core/utility.hpp
-/usr/local/include/opencv4/opencv2/flann/opencv2/core/utility.hpp
 
 /usr/local/include/opencv4/opencv2/highgui.hpp
 opencv2/core.hpp
